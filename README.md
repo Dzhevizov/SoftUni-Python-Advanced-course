@@ -1,2 +1,2 @@
-# SoftUni Python Advanced course
+# My homeworks during SoftUni Python Advanced course
  
