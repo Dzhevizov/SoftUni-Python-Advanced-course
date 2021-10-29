@@ -1,0 +1,3 @@
+{"id": 1, "name": "Ferrari", "image_path": "Ferrari.jpg", "count": 5}
+{"id": 2, "name": "Lambo", "image_path": "Lambo.jpg", "count": 4}
+{"id": 3, "name": "Bugatti", "image_path": "Bugatti.jpg", "count": 5}
